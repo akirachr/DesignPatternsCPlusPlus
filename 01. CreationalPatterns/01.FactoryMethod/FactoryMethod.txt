@@ -1,0 +1,2 @@
+Factory Method defines an interface for creating objects.
+A subclass under the interface decides which object to be created.

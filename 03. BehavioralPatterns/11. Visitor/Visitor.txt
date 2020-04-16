@@ -1,0 +1,1 @@
+Visitor defines operations to be performed on objects.

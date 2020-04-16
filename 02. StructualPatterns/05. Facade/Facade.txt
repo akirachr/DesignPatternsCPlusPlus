@@ -1,0 +1,1 @@
+Facade provides a unified interface to a set of susbsystem interfaces.

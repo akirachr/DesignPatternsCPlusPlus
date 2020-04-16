@@ -1,0 +1,1 @@
+Flyweight shares a large number of objects.

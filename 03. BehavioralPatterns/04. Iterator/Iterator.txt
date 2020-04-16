@@ -1,0 +1,1 @@
+Iterator gives a way to get access to the elements of an agregate object sequentially.

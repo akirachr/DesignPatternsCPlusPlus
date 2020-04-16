@@ -1,0 +1,1 @@
+Mediator prevents objects from referring to each other explicitly by defining the interaction among them in the mediator.

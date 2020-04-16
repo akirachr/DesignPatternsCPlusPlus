@@ -1,0 +1,1 @@
+Chain of responsibility chains the request receiving objects and passes the request along the chain until an object handles it.

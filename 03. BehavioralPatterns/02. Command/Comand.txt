@@ -1,0 +1,6 @@
+Original Definition:
+ Command encapsulates a request as an object and lets you parameterize clients with different requests.
+
+Redefinition:
+ Command encapsulates a request by hiding the request serving concrete object behind the command interface.
+ When a client hands its request on to a server, the server provides the client with an appropriate command object under the command interface.

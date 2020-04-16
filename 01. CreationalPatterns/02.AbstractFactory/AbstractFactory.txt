@@ -1,0 +1,2 @@
+Abstract Factory defines an interface for creating a family of related objects.
+A subclass under the interface decides which family of objects to be created.

@@ -1,0 +1,3 @@
+Builder defines an interface and steps to create an object.
+Each object is created by its corresponding concrete Builder.
+Director defines the skeleton of algorithm consisting of Builder interface steps.

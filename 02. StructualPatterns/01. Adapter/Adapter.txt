@@ -1,0 +1,1 @@
+Adapter converts the interface of a class into another the client expects.

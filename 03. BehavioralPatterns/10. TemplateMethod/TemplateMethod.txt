@@ -1,0 +1,1 @@
+Templete method defines the skeleton of an algorithm in a base class and defers the implementations of steps to its derived classes.
